@@ -1,4 +1,4 @@
--- ===== Creación de tablas =====
+jkbdjñekkbñriuedhbpijne3pjnsóknówehniusdñjkbskjbsjbhwpjhbls-- ===== Creación de tablas =====
 CREATE TABLE Usuario (
     id_usuario INT PRIMARY KEY AUTO_INCREMENT,
     nombre VARCHAR(100),
